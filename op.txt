@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7 not-logged-in client-root"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8 not-logged-in client-root"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9 not-logged-in client-root"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js not-logged-in client-root" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <title>
+   Rakshit Sharma (@rakshify) â¢ Instagram photos and videos
+  </title>
+  <meta content="noimageindex, noarchive" name="robots"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <meta content="#000000" name="theme-color"/>
+  <meta content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1" id="viewport" name="viewport"/>
+  <link href="/data/manifest.json" rel="manifest"/>
+  <link crossorigin="" href="https://graph.instagram.com" rel="preconnect"/>
+  <script type="text/javascript">
+   (function() {
+            var docElement = document.documentElement;
+            var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+            var className = docElement.className;
+            docElement.className = className.replace(classRE, '$1js$2');
+        })();
+  </script>
+  <link href="/static/images/ico/apple-touch-icon-76x76-precomposed.png/932e4d9af891.png" rel="apple-touch-icon-precomposed" sizes="76x76"/>
+  <link href="/static/images/ico/apple-touch-icon-120x120-precomposed.png/004705c9353f.png" rel="apple-touch-icon-precomposed" sizes="120x120"/>
+  <link href="/static/images/ico/apple-touch-icon-152x152-precomposed.png/82467bc9bcce.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
+  <link href="/static/images/ico/apple-touch-icon-167x167-precomposed.png/515cb4eeeeee.png" rel="apple-touch-icon-precomposed" sizes="167x167"/>
+  <link href="/static/images/ico/apple-touch-icon-180x180-precomposed.png/94fd767f257b.png" rel="apple-touch-icon-precomposed" sizes="180x180"/>
+  <link href="/static/images/ico/favicon-192.png/b407fa101800.png" rel="icon" sizes="192x192"/>
+  <link color="#262626" href="/static/images/ico/favicon.svg/9d8680ab8a3c.svg" rel="mask-icon"/>
+  <link href="/static/images/ico/favicon.ico/dfa85bb1fd63.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="android-app://com.instagram.android/https/instagram.com/_u/rakshify/" rel="alternate">
+   <meta content="Instagram" property="al:ios:app_name">
+    <meta content="389801252" property="al:ios:app_store_id">
+     <meta content="instagram://user?username=rakshify" property="al:ios:url">
+      <meta content="Instagram" property="al:android:app_name">
+       <meta content="com.instagram.android" property="al:android:package">
+        <meta content="https://www.instagram.com/_u/rakshify/" property="al:android:url">
+         <link href="https://www.instagram.com/rakshify/" rel="canonical">
+          <meta content="145 Followers, 81 Following, 1 Posts - See Instagram photos and videos from Rakshit Sharma (@rakshify)" name="description"/>
+          <meta content="profile" property="og:type"/>
+          <meta content="https://instagram.fblr2-1.fna.fbcdn.net/t51.2885-19/s150x150/14052516_111886829264475_770786814_a.jpg" property="og:image"/>
+          <meta content="Rakshit Sharma (@rakshify) â¢ Instagram photos and videos" property="og:title"/>
+          <meta content="145 Followers, 81 Following, 1 Posts - See Instagram photos and videos from Rakshit Sharma (@rakshify)" property="og:description"/>
+          <meta content="https://www.instagram.com/rakshify/" property="og:url"/>
+          <link href="https://www.instagram.com/rakshify/" hreflang="x-default" rel="alternate">
+           <link href="https://www.instagram.com/rakshify/?hl=en" hreflang="en" rel="alternate">
+            <link href="https://www.instagram.com/rakshify/?hl=fr" hreflang="fr" rel="alternate">
+             <link href="https://www.instagram.com/rakshify/?hl=it" hreflang="it" rel="alternate">
+              <link href="https://www.instagram.com/rakshify/?hl=de" hreflang="de" rel="alternate">
+               <link href="https://www.instagram.com/rakshify/?hl=es" hreflang="es" rel="alternate">
+                <link href="https://www.instagram.com/rakshify/?hl=zh-cn" hreflang="zh-cn" rel="alternate">
+                 <link href="https://www.instagram.com/rakshify/?hl=zh-tw" hreflang="zh-tw" rel="alternate">
+                  <link href="https://www.instagram.com/rakshify/?hl=ja" hreflang="ja" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=ko" hreflang="ko" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=pt" hreflang="pt" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=pt-br" hreflang="pt-br" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=af" hreflang="af" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=cs" hreflang="cs" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=da" hreflang="da" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=el" hreflang="el" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=fi" hreflang="fi" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=hr" hreflang="hr" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=hu" hreflang="hu" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=id" hreflang="id" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=ms" hreflang="ms" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=nb" hreflang="nb" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=nl" hreflang="nl" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=pl" hreflang="pl" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=ru" hreflang="ru" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=sk" hreflang="sk" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=sv" hreflang="sv" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=th" hreflang="th" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=tl" hreflang="tl" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=tr" hreflang="tr" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=hi" hreflang="hi" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=bn" hreflang="bn" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=gu" hreflang="gu" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=kn" hreflang="kn" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=ml" hreflang="ml" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=mr" hreflang="mr" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=pa" hreflang="pa" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=ta" hreflang="ta" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=te" hreflang="te" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=ne" hreflang="ne" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=si" hreflang="si" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=ur" hreflang="ur" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=vi" hreflang="vi" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=bg" hreflang="bg" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=fr-ca" hreflang="fr-ca" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=ro" hreflang="ro" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=sr" hreflang="sr" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=uk" hreflang="uk" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=zh-hk" hreflang="zh-hk" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=es-la" hreflang="es-la" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=he" hreflang="he" rel="alternate"/>
+                  <link href="https://www.instagram.com/rakshify/?hl=fa" hreflang="fa" rel="alternate"/>
+                 </link>
+                </link>
+               </link>
+              </link>
+             </link>
+            </link>
+           </link>
+          </link>
+         </link>
+        </meta>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </link>
+ </head>
+ <body class="">
+  <span id="react-root">
+  </span>
+  <script type="text/javascript">
+   window._sharedData = {"activity_counts": null, "config": {"csrf_token": "nPUr3tTPzW4RKM1E1xJNtUfc8XiFMDwD", "viewer": null}, "country_code": "IN", "language_code": "en", "entry_data": {"ProfilePage": [{"user": {"biography": null, "blocked_by_viewer": false, "country_block": false, "external_url": null, "external_url_linkshimmed": null, "followed_by": {"count": 145}, "followed_by_viewer": false, "follows": {"count": 81}, "follows_viewer": false, "full_name": "Rakshit Sharma", "has_blocked_viewer": false, "has_requested_viewer": false, "id": "1109900909", "is_private": false, "is_verified": false, "profile_pic_url": "https://instagram.fblr2-1.fna.fbcdn.net/t51.2885-19/s150x150/14052516_111886829264475_770786814_a.jpg", "profile_pic_url_hd": "https://instagram.fblr2-1.fna.fbcdn.net/t51.2885-19/s320x320/14052516_111886829264475_770786814_a.jpg", "requested_by_viewer": false, "username": "rakshify", "connected_fb_page": null, "media": {"nodes": [{"__typename": "GraphImage", "id": "1626134049725086557", "comments_disabled": false, "dimensions": {"height": 1074, "width": 1080}, "gating_info": null, "media_preview": "ACopl20basbapKwecgHIUepx7j0Pv6fhXU3YxSuTbacFqbbTgtFxFaQhFySF9P8A9XespnJJOTyfXH6VtyRbl46+wGfoM9Kzv7Oc8lhk9eTWctS0Wry48iMsPvHgfX1/CsuFRG8LKThxk59ckHFWLuIzgbcZGevvUcaoqqh/1kTZ9ueevp0P51Em7ouKWptbhS7h61RMhxkDI7c9aqvck9Dt4B4wf8/0o5kLlZrNMifeIFVjep/e/T/69ZKSZbJ6/XJPr1qTevp/L/Gp5h2HSzlcADk5/wA8U+OLcu89XJyD24/z+FUpf4a0k/qf5Cok2XFIIYzGhUNnr+tZggIQEck/y9a1F6VWh+8f9wf1qUy30KcYYNuI3BfTpz6kVP53+z+pqSz6t9B/WrNUZn//2Q==", "owner": {"id": "1109900909"}, "thumbnail_src": "https://instagram.fblr2-1.fna.fbcdn.net/t51.2885-15/s640x640/sh0.08/e35/c3.0.1074.1074/22429696_137391836895997_3326293050803617792_n.jpg", "thumbnail_resources": [], "is_video": false, "code": "BaRME13B_td", "date": 1508070306, "display_src": "https://instagram.fblr2-1.fna.fbcdn.net/t51.2885-15/e35/22429696_137391836895997_3326293050803617792_n.jpg", "comments": {"count": 1}, "likes": {"count": 25}}], "count": 1, "page_info": {"has_next_page": false, "end_cursor": "AQCPfh39IjahupfdrZh_se-TakJ453UIUfbH61P6cvTKt612yinOZpmA26n4sPdMXjo"}}, "saved_media": {"nodes": [], "count": 0, "page_info": {"has_next_page": false, "end_cursor": null}}}, "logging_page_id": "profilePage_1109900909"}]}, "gatekeepers": {"bn": true, "ld": true, "nr": true, "pl": true}, "qe": {"dash_for_vod": {"g": "", "p": {}}, "ebd": {"g": "", "p": {}}, "bc3l": {"g": "", "p": {}}, "aysf": {"g": "", "p": {}}, "al": {"g": "", "p": {}}, "create_upsell": {"g": "", "p": {}}, "feed": {"g": "", "p": {}}, "follow_button": {"g": "", "p": {}}, "stories": {"g": "", "p": {}}, "stories_creation": {"g": "", "p": {}}, "su_universe": {"g": "control_redirect_to_signup_11_12", "p": {"redirect_to_signup": "false"}}, "us": {"g": "", "p": {}}, "us_li": {"g": "", "p": {}}, "nav": {"g": "", "p": {}}, "nav_lo": {"g": "", "p": {}}, "deact": {"g": "", "p": {}}, "sidecar": {"g": "", "p": {}}, "video": {"g": "", "p": {}}, "filters": {"g": "", "p": {}}, "typeahead": {"g": "", "p": {}}, "appsell": {"g": "", "p": {}}, "save": {"g": "", "p": {}}, "stale": {"g": "", "p": {}}, "reg": {"g": "", "p": {}}, "reg_vp": {"g": "", "p": {}}, "nux": {"g": "", "p": {}}, "prof_pic_upsell": {"g": "", "p": {}}, "prof_pic_creation": {"g": "", "p": {}}, "onetaplogin": {"g": "", "p": {}}, "feed_vp": {"g": "", "p": {}}, "push_notifications": {"g": "", "p": {}}, "login_poe": {"g": "", "p": {}}, "feed_perf": {"g": "", "p": {}}, "prefetch": {"g": "", "p": {}}, "report_haf": {"g": "", "p": {}}, "report_category_reorder": {"g": "", "p": {}}, "a2hs": {"g": "", "p": {}}, "bg_sync": {"g": "", "p": {}}, "disc_ppl": {"g": "", "p": {}}}, "hostname": "www.instagram.com", "display_properties_server_guess": {"pixel_ratio": 1.5, "viewport_width": 360, "viewport_height": 480, "orientation": ""}, "environment_switcher_visible_server_guess": true, "platform": "web", "nonce": "Q5XpC3UlWLfVQIaOU9CXlw==", "zero_data": {}, "rollout_hash": "a6473f2fb1aa", "probably_has_app": false, "show_app_install": true};
+  </script>
+  <script type="text/javascript">
+   !function(e){function a(n){if(c[n])return c[n].exports;var o=c[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,a),o.l=!0,o.exports}var n=window.webpackJsonp;window.webpackJsonp=function(c,r,t){for(var f,d,i,u=0,b=[];u<c.length;u++)d=c[u],o[d]&&b.push(o[d][0]),o[d]=0;for(f in r)Object.prototype.hasOwnProperty.call(r,f)&&(e[f]=r[f]);for(n&&n(c,r,t);b.length;)b.shift()();if(t)for(u=0;u<t.length;u++)i=a(a.s=t[u]);return i};var c={},o={54:0};a.e=function(e){function n(){f.onerror=f.onload=null,clearTimeout(d);var a=o[e];0!==a&&(a&&a[1](new Error("Loading chunk "+e+" failed.")),o[e]=void 0)}var c=o[e];if(0===c)return new Promise(function(e){e()});if(c)return c[2];var r=new Promise(function(a,n){c=o[e]=[a,n]});c[2]=r;var t=document.getElementsByTagName("head")[0],f=document.createElement("script");f.type="text/javascript",f.charset="utf-8",f.async=!0,f.timeout=12e4,a.nc&&f.setAttribute("nonce",a.nc),f.src=a.p+"en_US_Chunk_"+({3:"CreationModules",29:"Report",30:"FeedPage",31:"LocationsPage",32:"Community",33:"SupportInfo",34:"Copyright",35:"ProfilePage",36:"GenericSurvey",37:"ExploreLandingPage",38:"TagPage",39:"Challenge",40:"PostPage",41:"LoginAndSignupPage",42:"LandingPage",43:"EmailSnoozePage",44:"EmailUnsubscribePage",45:"SettingsPages",46:"ConfirmFollowDialog",47:"NotificationLandingPage",48:"LocationsDirectoryPage",49:"DirectoryPage",50:"ActivityFeed",51:"CameraPage"}[e]||e)+".js/"+{0:"8f7c13cb17d5",1:"9b0670f60bae",2:"ee181d16f890",3:"e5e2eb76db0f",4:"73f339d0446c",5:"3d6c18762fd6",6:"cb46fce4ace5",7:"fe244e6009a9",8:"fbcafbbf728d",9:"aa73ba86e2d3",10:"8bc82666fc5c",11:"10f45cc7ed05",12:"7534d711f182",13:"a305ed25c656",14:"92f278487df3",15:"0d4504f5fd13",16:"ded1d2a0d023",17:"5c2eb87f3396",18:"373d27bad536",19:"cd26a3c73b1f",20:"123249cb6888",21:"54004df13c92",22:"04c1afeaa7ef",23:"8ffd44e0469e",24:"ebb49c8e85b1",25:"a65868cf7147",26:"2efa5916125c",27:"601648a7ff06",28:"2469b3e06d00",29:"733bb9640c24",30:"c566f5142cf9",31:"0f6d33a1fcaa",32:"d74c3e769a04",33:"ef1d8e6ed1de",34:"926b9fbf8958",35:"764f9392c39a",36:"a93191d45d3a",37:"784f85a43533",38:"fe4d6ddc765c",39:"2a97001fc7bc",40:"f7cdb4ab6499",41:"c6c502e36565",42:"a0bdba8a1dd3",43:"7fe4881d87c1",44:"3feea1fb27e9",45:"98334bc9f328",46:"a0d0d7c403ef",47:"c9aedcf645e5",48:"e82ef32a5523",49:"4f6e1435d9a5",50:"33d592532132",51:"c2126b11c50d"}[e]+".js";var d=setTimeout(n,12e4);return f.onerror=f.onload=n,t.appendChild(f),r},a.m=e,a.c=c,a.d=function(e,n,c){a.o(e,n)||Object.defineProperty(e,n,{configurable:!1,enumerable:!0,get:c})},a.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(n,"a",n),n},a.o=function(e,a){return Object.prototype.hasOwnProperty.call(e,a)},a.p="/static/bundles/",a.oe=function(e){throw console.error(e),e}}([]);
+  </script>
+  <script src="/static/bundles/Polyfills.js/4790cbb38649.js" type="text/javascript">
+  </script>
+  <script src="/static/bundles/en_US_Commons.js/b4aca632a36e.js" type="text/javascript">
+  </script>
+  <script src="/static/bundles/en_US_ProfilePage.js/764f9392c39a.js" type="text/javascript">
+  </script>
+  <script>
+   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1425767024389221');
+
+fbq('track', 'PageView');
+  </script>
+  <noscript>
+  </noscript>
+ </body>
+</html>
